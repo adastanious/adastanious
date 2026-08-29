@@ -1,4 +1,4 @@
-<svg viewBox="0 0 720 392" xmlns="http://www.w3.org/2000/svg" width="720" height="392" font-family="'JetBrains Mono', 'Courier New', monospace">
+<svg viewBox="0 0 720 355" xmlns="http://www.w3.org/2000/svg" width="720" height="355" font-family="'JetBrains Mono', 'Courier New', monospace">
     <defs>
         <style>
             @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&amp;display=swap');
@@ -53,8 +53,8 @@
     </defs>
 
     <!-- Background -->
-    <rect width="720" height="392" rx="10" fill="#0d1117"/>
-    <rect width="720" height="392" rx="10" fill="none" stroke="#30363d" stroke-width="1"/>
+    <rect width="720" height="355" rx="10" fill="#0d1117"/>
+    <rect width="720" height="355" rx="10" fill="none" stroke="#30363d" stroke-width="1"/>
 
     <!-- Traffic lights -->
     <circle cx="20" cy="20" r="6" fill="#ff5f57"/>
